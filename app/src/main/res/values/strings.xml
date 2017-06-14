@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProject2</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_text">Phone number :</string>
+    <string name="codeword_text">Codeword :</string>
+    <string name="save">save</string>
+    <string name="Switch_Sms_Service_Off">Включить сервис</string>
+    <string name="Switch_Sms_Service_On">Выключить сервис</string>
+</resources>
